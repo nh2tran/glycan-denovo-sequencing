@@ -5,4 +5,4 @@ This is a deep learning-based model for glycan de novo sequencing from tandem ma
 The training, testing data and pretrained model are publicly available here: 
 https://drive.google.com/drive/folders/1o84GYwIlAg06rJJTcgR1LXSRf6KNnvF1?usp=sharing
 
-The training, prediction, and evaluation can be done by following the Python notebook 'aa.glycan_manuscript.ipynb'.
+The training, prediction, and evaluation can be done by following the Python notebook `aa.glycan_manuscript.ipynb`.
