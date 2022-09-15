@@ -7,7 +7,14 @@ https://drive.google.com/drive/folders/1o84GYwIlAg06rJJTcgR1LXSRf6KNnvF1?usp=sha
 
 The training, prediction, and evaluation can be done by following the Python notebook `aa.glycan_manuscript.ipynb`.
 
-To perform evaluation on the dataset `Demo_IgG_Orbitrap` and the pretrained model, please run the following sections:
+To perform evaluation, please use the dataset `Demo_IgG_Orbitrap` and the pretrained model, and run the following sections in the notebook:
 - `I/O FUNCTIONS and DATA PRE-PROCESSING`
 - `MODEL PREPARATION`
 - `MODEL DENOVO SEQUENCING`
+
+To perform training, please use the dataset `mouse_brain` and run the following sections in the notebook:
+- `I/O FUNCTIONS and DATA PRE-PROCESSING`
+- `MODEL PREPARATION`
+- `MODEL TRAINING`
+
+More details and explanations are provided in the notebook. This is an on-going work, more data and materials will be further added. Please feel free to contact us if you have any questions.
